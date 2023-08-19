@@ -1,1 +1,1 @@
-# DX-MniMap
+# DX-MiniMap
